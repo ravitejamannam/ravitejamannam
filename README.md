@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning DSA  <br>🎯 Goals: Develop Full stack apps independently <br>🎲 Interests: Coding, Travelling, Music</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning TypeScript  <br>🎯 Goals: Develop Full stack apps independently <br>🎲 Interests: Coding, Travelling, Music</p>
 
 ###
 
