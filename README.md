@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">i'm a React.Js fanboy, but I do some other stuff too 🔨</h2>
 
 ###
 
