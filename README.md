@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Raviteja and I'm a Frontend Developer.</p>
+<p align="left">My name is Raviteja and I'm a Frontend Developer / ReactJS Developer.</p>
 
 ###
 
