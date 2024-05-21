@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left"> I'm a ReactJs fanboy, but I Like some other stuff too 🔨</h2>
+<h2 align="left"> I'm a ReactJs fanboy, but I Like some other stuff too ...</h2>
 
 ###
 
