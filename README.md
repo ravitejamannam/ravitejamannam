@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning TypeScript & DSA  <br>🎯 Goals: Develop Full stack apps independently <br>🎲 Interests: Coding, Travelling, Chess, Puzzles  <br>🎧Musicholic: I really like music (O₂) <br>📚MyReads: The Immortals of Meluha(Shiva Triology) by Amish Tripathi</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning TypeScript & DSA  <br>🎯 Goals: Develop Full stack apps independently <br>🎲 Interests: Coding, Travelling, Chess, Puzzles,Sudoku  <br>🎧Musicholic: I really like music (O₂) <br>📚MyReads: The Immortals of Meluha(Shiva Triology) by Amish Tripathi</p>
 
 ###
 
