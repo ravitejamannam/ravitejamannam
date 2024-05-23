@@ -14,11 +14,8 @@
 
 ###
 
-
-
-- 💬 Ask me about **JavaScript, React**
-
-- 📫 How to reach me **ravitejamannam88@gmail.com**
+💬 Ask me about **JavaScript, React**
+📫 How to reach me **ravitejamannam88@gmail.com**
 
 
 
