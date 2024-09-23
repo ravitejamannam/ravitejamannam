@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Raviteja and I'm a Frontend Developer / ReactJS Developer.</p>
+<p align="left">My name is Raviteja and I'm on a path to becoming Frontend Developer / ReactJS Developer.</p>
 
 
 ###
