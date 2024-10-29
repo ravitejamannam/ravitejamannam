@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Raviteja and I'm on a path to becoming Frontend Developer / ReactJS Developer.</p>
+<p align="left">My name is Raviteja and I'm on a path to becoming Full Stack Developer .</p>
 
 
 ###
@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs while coding <br>📚 I'm currently learning TypeScript & DSA  <br>🎯 Goals: Develop Full stack apps independently <br>🎲 Interests: Coding, Travelling, Chess, Puzzles, Sudoku  <br>🎧Musicaholic: I like music (O₂) <br>📚MyReads: The Immortals of Meluha(Shiva Trilogy) by Amish Tripathi</p>
+<p align="left">✨ Creating bugs while coding <br>📚 I'm currently learning TypeScript   <br>🎯 Goals: Develop Full stack apps independently <br>🎲 Interests: Coding, Travelling, Chess, Puzzles, Sudoku  <br>🎧Musicaholic: I like music (O₂) <br>📚MyReads: The Immortals of Meluha(Shiva Trilogy) by Amish Tripathi</p>
 💬 Ask me about JavaScript, React
 
 📫 How to reach me: **ravitejamannam88@gmail.com**
@@ -38,8 +38,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
