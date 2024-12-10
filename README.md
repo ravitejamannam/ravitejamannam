@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs while coding <br>📚 I'm currently learning TypeScript   <br>🎯 Goals: Develop Full stack apps independently <br>🎲 Interests: Coding, Travelling, Chess, Puzzles, Sudoku  <br>🎧Musicaholic: I like music (O₂) <br>📚MyReads: The Immortals of Meluha(Shiva Trilogy) by Amish Tripathi</p>
+<p align="left">✨ Creating bugs while coding <br>📚 I'm currently learning MERN ,GO   <br>🎯 Goals: Develop Full stack apps independently <br>🎲 Interests: Coding, Travelling, Chess, Puzzles, Sudoku  <br>🎧Musicaholic: I like music (O₂) <br>📚MyReads: The Immortals of Meluha(Shiva Trilogy) by Amish Tripathi</p>
 💬 Ask me about JavaScript, React
 
 📫 How to reach me: **ravitejamannam88@gmail.com**
